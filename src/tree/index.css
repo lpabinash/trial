@@ -1,0 +1,24 @@
+.tree-container {
+    background-color: #efefef;
+    padding: 10px;
+    font-family: monospace;
+  }
+  
+  .tree {
+    margin-left: 20px;
+    /* border-left: 1px solid #ccc; */
+    padding-left: 10px;
+  }
+  
+  .tree p {
+    margin: 0;
+  }
+  
+.indent {
+    padding-left: 20px;
+    /* border-left: 1px solid #ccc; */
+  }
+
+.inputField{
+    display: flex;
+}  
